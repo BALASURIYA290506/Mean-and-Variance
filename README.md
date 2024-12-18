@@ -53,7 +53,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 Developed by : S Lokeshwaran
-
 Register number : 24901149
 ![Screenshot 2024-12-18 163231](https://github.com/user-attachments/assets/36ded554-1cdd-49df-bfcc-28c3acd9bd38)
 
