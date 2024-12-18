@@ -1,6 +1,8 @@
 #  Mean and variance of a discrete  distribution
 DATE :21/09/2024
+
 NAME : S Lokeshwaran
+
 Register number : 24901149
 
 # Aim : 
