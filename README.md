@@ -1,5 +1,7 @@
 #  Mean and variance of a discrete  distribution
-
+## DATE :21/09/2024
+## NAME : GOKUL S
+## REG NO :24005282
 
 # Aim : 
 
