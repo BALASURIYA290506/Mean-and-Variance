@@ -1,7 +1,5 @@
-#  Mean and variance of a discrete  distribution
-## DATE :21/09/2024
-## NAME : GOKUL S
-## REG NO :24005282
+# EX NO:01 Mean and variance of a discrete  distribution
+ 
 
 # Aim : 
 
@@ -50,8 +48,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
-name: GOKUL.S
-reg no.:24005282
+Name: Punniyakotti.M
+Reg no.:24006503
 ```
 import numpy as np
 L=[int(i) for i in input().split()]
