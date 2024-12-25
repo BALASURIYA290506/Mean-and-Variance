@@ -1,9 +1,9 @@
 #  Mean and variance of a discrete  distribution
-DATE :21/09/2024
+DATE : 21/09/2024
 
-NAME : S Lokeshwaran
+NAME : M.BALASURIYA
 
-Register number : 24901149
+Register number : 24900432
 
 # Aim : 
 
@@ -52,8 +52,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
-Developed by : S Lokeshwaran
-Register number : 24901149
+Developed by : M.BALASURIYA
+Register number : 24900432
 ![Screenshot 2024-12-18 163231](https://github.com/user-attachments/assets/36ded554-1cdd-49df-bfcc-28c3acd9bd38)
 
 
